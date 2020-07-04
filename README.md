@@ -1,4 +1,4 @@
-# Regresyon Modelleri
+# Regresyon Modelleri Karşılaştırması
 
 
 Kombine Çevrim Enerji Santrali Veri Seti (Combined Cycle Power Plant Data Set)
@@ -13,4 +13,4 @@ Veri seti, santralin tam yük ile çalışmaya ayarlandığı 6 yıl (2006-2011)
     Bağıl Nem (RH) %25,56 ila %100,16 aralığında
     Net saatlik elektrik enerjisi çıkışı (PE) 420.26-495.76 MW aralığındadır.
 
-Ortalamalar, tesis değişkenlerini her saniye ortam değişkenlerini kaydeden çeşitli sensörlerden alınır.
+Ortalamalar, tesis değişkenlerini her saniye ortam değişkenlerini kaydeden çeşitli sensörlerden alınır. Amacımız veri seti için en uygun regresyon modelini bulmaktır.
